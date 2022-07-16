@@ -47,10 +47,7 @@
     ],
     "fixo": [
         {
-            "img": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/fotos/telefone-fixo-interno2-600x400.jpg",
-        },
-        {
-            "titulo": "Telefone fixo para empresas com ligações ilimitadas para fixo e celular",
+            "title": "Telefone fixo para empresas com ligações ilimitadas para fixo e celular",
             "plan": "Conheça nossos planos",
         },
         {
