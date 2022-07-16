@@ -25,24 +25,4 @@
             "price": 250.99
         }
     ],
-    "tv": [
-        {
-            "img": "https://www.infobae.com/new-resizer/1gjcYjNu_Pg17STdc9KDG3YYODk=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/EJAIZTF5WNDJXJVPIHL45V75YU.png"
-        },
-        {
-            "id": 1,
-            "title": "filmes",
-            "price": 69.99
-        },
-        {
-            "id": 2,
-            "title": "filmes + series",
-            "price": 99.99 
-        },
-        {
-            "id": 3,
-            "title": "filmes + series + futebol",
-            "price": 149.99
-        }
-    ],
 }
