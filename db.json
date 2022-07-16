@@ -50,21 +50,6 @@
             "title": "Telefone fixo para empresas com ligações ilimitadas para fixo e celular",
             "plan": "Conheça nossos planos",
         },
-        {
-            "id": 1,
-            "offer": "Oferta",
-            "details": "Ilimitado Brasil",
-            "price": 30.00
-        },
-        {
-            "id": 2,
-            "details": "Ilimitado Brasil 21",
-            "price": 40.00
-        },
-        {
-            "id": 3,
-            "details": "Ilimitado Mundo",
-            "price": 70.00
-        }
+       
     ],
 }
