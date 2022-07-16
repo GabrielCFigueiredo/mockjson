@@ -24,5 +24,30 @@
             "title": "de Internet com Wifi-grátis e Serviços Digitais",
             "price": 250.99
         }
-    ]
+    ],
+    "fixed": [
+        {
+            "img": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/fotos/telefone-fixo-interno2-600x400.jpg",
+        },
+        {
+            "title": "Telefone fixo para empresas com ligações ilimitadas para fixo e celular",
+            "plan": "Conheça nossos planos",
+        },
+        {
+            "id": 1,
+            "offer": "Oferta",
+            "details": "Ilimitado Brasil",
+            "price": 30.00
+        },
+        {
+            "id": 2,
+            "details": "Ilimitado Brasil 21",
+            "price": 40.00
+        },
+        {
+            "id": 3,
+            "details": "Ilimitado Mundo",
+            "price": 70.00
+        }
+    ],
 }
