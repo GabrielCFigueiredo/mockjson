@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "internet": [
+        {
+            "id": 1,
+            "velocity": "300 mega",
+            "title": "de Internet com Wifi-grátis e Serviços Digitais",
+            "price": 99.99
+        },
+        {
+            "id": 2,
+            "velocity": "500 mega",
+            "title": "de Internet com Wifi-grátis e Serviços Digitais",
+            "price": 159.99   
+        },
+        {
+            "id": 3,
+            "velocity": "700 mega",
+            "title": "de Internet com Wifi-grátis e Serviços Digitais",
+            "price": 199.99
+        },
+        {
+            "id": 4,
+            "velocity": "1 Giga",
+            "title": "de Internet com Wifi-grátis e Serviços Digitais",
+            "price": 250.99
+        }
+    ]
 }
