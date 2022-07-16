@@ -26,28 +26,48 @@
         }
     ],
     "fixo": [
+         {
+            "img": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/fotos/telefone-fixo-interno2-600x400.jpg",
+        },
+        {
+            "titulo": "Telefone fixo para empresas com ligações ilimitadas para fixo e celular",
+            "plano": "Conheça nossos planos",
+        },
         {
             "id": 1,
-            "img": "https://cdn.melhorplano.net/cms/2021/06/14/60c7a20a82461Operadoras_de_telefone_fixo.png",
-            "valor": 64.99
+            "oferta": "Oferta",
+            "detalhe": "Ilimitado Brasil",
+            "price": 30.00
+        },
+        {
+            "id": 2,
+            "detalhe": "Ilimitado Brasil 21",
+            "price": 40.00
+        },
+        {
+            "id": 3,
+            "detalhe": "Ilimitado Mundo",
+            "price": 70.00
         }
     ],
     "tv": [
         {
-            "id": 1,
             "img": "https://www.infobae.com/new-resizer/1gjcYjNu_Pg17STdc9KDG3YYODk=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/EJAIZTF5WNDJXJVPIHL45V75YU.png"
         },
         {
-            "titulo": "filmes",
-            "valor": 69.99
+            "id": 1,
+            "title": "filmes",
+            "price": 69.99
         },
         {
-            "titulo": "filmes + series",
-            "valor": 99.99 
+            "id": 2,
+            "title": "filmes + series",
+            "price": 99.99 
         },
         {
-            "titulo": "filmes + series + futebol",
-            "valor": 149.99
+            "id": 3,
+            "title": "filmes + series + futebol",
+            "price": 149.99
         }
     ]
 }
