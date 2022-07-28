@@ -26,9 +26,7 @@
         }
     ],
     "plan": [
-         {
-            "img": "https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/fotos/telefone-fixo-interno2-600x400.jpg"
-        },
+         
         {
             "title": "Telefone fixo para empresas com ligações ilimitadas para fixo e celular",
             "plan": "Conheça nossos planos"
@@ -38,17 +36,17 @@
         {
             "id": 5,
             "offer": "Oferta",
-            "details": "Ilimitado Brasil",
+            "title": "Ilimitado Brasil",
             "price": 30.00
         },
         {
             "id": 6,
-            "details": "Ilimitado Brasil 21",
+            "title": "Ilimitado Brasil 21",
             "price": 40.00
         },
         {
             "id": 7,
-            "details": "Ilimitado Mundo",
+            "title": "Ilimitado Mundo",
             "price": 70.00
         }
     ],
