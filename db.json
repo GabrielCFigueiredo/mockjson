@@ -2,25 +2,25 @@
     "internet": [
         {
             "id": 1,
-            "velocity": "300 mega",
+            "velocity": "https://sempreinternet.com.br/wp-content/uploads/2021/07/Novos_planos_100_oferta_especial_sempre_internet.png",
             "title": "Internet com Wifi-grátis e Serviços Digitais",
             "price": 99.99
         },
         {
             "id": 2,
-            "velocity": "500 mega",
+            "velocity": "https://sempreinternet.com.br/wp-content/uploads/2021/07/Novos_planos_200_oferta_especial_sempre_internet.png",
             "title": "Internet com Wifi-grátis e Serviços Digitais",
             "price": 159.99   
         },
         {
             "id": 3,
-            "velocity": "700 mega",
+            "velocity": "https://sempreinternet.com.br/wp-content/uploads/2021/05/100-Oferta-especial-1-1.png",
             "title": "Internet com Wifi-grátis e Serviços Digitais",
             "price": 199.99
         },
         {
             "id": 4,
-            "velocity": "1 Giga",
+            "velocity": "https://sempreinternet.com.br/wp-content/uploads/2021/05/500-1.png",
             "title": "Internet com Wifi-grátis e Serviços Digitais",
             "price": 250.99
         }
